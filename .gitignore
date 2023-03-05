@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+.venv
+# Ignore the input and output files of the script
+*.csv
+*.txt
+*.xlsx
